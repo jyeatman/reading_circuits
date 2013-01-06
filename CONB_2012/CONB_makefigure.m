@@ -2,6 +2,7 @@
 % The script requires the Automated Fiber Quantification (AFQ), VISTASOFT
 % and SPM software packages. More information can be found at 
 % http://white.stanford.edu/newlm/index.php/AFQ
+% or by emailing jyeatman@stanford.edu
 %
 % Copyright Jason D. Yeatman and Brian A. Wandell December 2012
 
