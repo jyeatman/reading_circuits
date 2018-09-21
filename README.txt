@@ -1,7 +1,7 @@
 reading_circuits
 ================
 
-Code and data to visualize reading circuits
+Code and data to visualize reading circuits and simulate data
 
 Some of the visualizations depend on:
 https://github.com/yeatmanlab/afq
