@@ -1,9 +1,9 @@
 %% Simulate data and write .eps images
 
 % Random data where y is a weighted sum of x1 and x2
-%x1 = zscore(randn(100,1));
-%x2 = zscore(randn(100,1));
-%y = zscore(.5.*x1 + .5.*x2 + .8.*randn(100,1));
+x1 = zscore(randn(100,1));
+x2 = zscore(randn(100,1));
+y = zscore(.5.*x1 + .5.*x2 + .8.*randn(100,1));
 % Add a point for illustration
 x1(101) = 1; x2(101) = -2; y(101)=-2;
 figure; hold on
